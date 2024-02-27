@@ -155,8 +155,12 @@ let config = {
 	components.score.style.color = "red";
 	components.score.style.fontWeight = "bold";
   
-	if (config.countScore >20) {
-		alert("asdas");
+	if (config.countScore >50) {
+		alert(`На высоте ветров, где синеют небеса,
+		Там, где тонкий дымок восходит к небесам.
+		Там, где вечером друзья собираются вместе,
+		Где разговоры длинные, а дымки вьются во мгле.
+		Где это место, где курят?`);
 	}
   
   
