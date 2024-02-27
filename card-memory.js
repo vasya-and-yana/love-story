@@ -10,7 +10,7 @@ let config = {
   
   
 	offsetBorder: 10,
-	borderRadius: 50,
+	borderRadius: 0,
   
   
 	gemSize: 100,
